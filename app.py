@@ -78,7 +78,15 @@ Customer Review:
 # Streamlit UI
 # -----------------------------
 
-st.title("AI-Powered Customer Feedback Structurer")
+st.title("Boston Capstone Customer Feedback Structurer")
+
+st.caption("""
+Real World Capstone Project 2026
+
+Developed by Daniel Roy
+
+Industry Partner: Boston India
+""")
 
 review = st.text_area("Enter a customer review")
 
