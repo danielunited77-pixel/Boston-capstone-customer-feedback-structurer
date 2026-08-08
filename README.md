@@ -91,7 +91,7 @@ manually annotated ground truth files and sample outputs are included in this re
 
 ## Developed By
 
-**Daniel Roy**
+**M Daniel Roy**
 
 **Admission Number:** RVIM25PGD005
 
